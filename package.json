@@ -1,0 +1,24 @@
+{
+  "name": "xmpp-irc-bridge",
+  "version": "1.0.0",
+  "description": "XMPP <-> IRC bridge done *right*, with \"real\" users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugee/xmpp-irc-bridge.git"
+  },
+  "keywords": [
+    "xmpp",
+    "irc",
+    "bridge"
+  ],
+  "author": "AJ Jordan <alex@strugee.net>",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/strugee/xmpp-irc-bridge/issues"
+  },
+  "homepage": "https://github.com/strugee/xmpp-irc-bridge#readme"
+}
